@@ -120,16 +120,6 @@ df = pd.read_html(str(soup.find('table')))[0]
 print(df)
 ```
 
-## 🤝 Contributing
-
-Contributions to improve the tutorial or add new examples are welcome:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/new-example`)
-3. Add your example or improvement
-4. Commit your changes (`git commit -m 'Add new example for XYZ technique'`)
-5. Push to the branch (`git push origin feature/new-example`)
-6. Open a Pull Request
 
 ## 📝 License
 
